@@ -19,4 +19,4 @@ The-Shades.o: The-Shades.c
 	${CC} ${CFLAGS} -o The-Shades.o -c The-Shades.c
 
 clean:
-	rm -f labGen *.o
+	rm -f The-Shades *.o labGen/labGen.o
