@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsterlist>
+	<monster>
+		<nameEN>"Pink Fluffy Unicorn"</nameEN>
+        <nameFR>"Une Licorne Rose Touffue"</nameFR>
+		<rate>1</rate>
+		<power>1</power>
+		<health>1</health>
+		<levels>[1]</levels>
+		<exp>10</exp>
+	</monster>
+	<monster>
+		<nameEN>"Rat"</nameEN>
+		<nameFR>"Un Rat"</nameFR>
+		<rate>2</rate>
+		<power>4</power>
+		<health>4</health>
+		<levels>[1]</levels>
+		<exp>30</exp>
+	</monster>
+	<monster>
+		<nameEN>"Goblin"</nameEN>
+        <nameFR>"Un Gobelin"</nameFR>
+		<rate>3</rate>
+		<power>5</power>
+		<health>6</health>
+		<levels>[1,2]</levels>
+		<exp>40</exp>
+	</monster>
+	<monster>
+		<nameEN>"Starving Beggar"</nameEN>
+        <nameFR>"Un Mendiant Affame"</nameFR>
+		<rate>3</rate>
+		<power>6</power>
+		<health>6</health>
+		<levels>[1,2]</levels>
+		<exp>50</exp>
+	</monster>
+	<monster>
+		<nameEN>"Beggar"</nameEN>
+        <nameFR>"Un Mendiant"</nameFR>
+		<rate>4</rate>
+		<power>7</power>
+		<health>6</health>
+		<levels>[1,2]</levels>
+		<exp>50</exp>
+	</monster>
+	<monster>
+		<nameEN>"Angry Beggar"</nameEN>
+        <nameFR>"Un Mendiant en Colere"</nameFR>
+		<rate>6</rate>
+		<power>7</power>
+		<health>8</health>
+		<levels>[2,3]</levels>
+		<exp>60</exp>
+	</monster>
+	<monster>
+		<nameEN>"Enraged Dog"</nameEN>
+        <nameFR>"Un Chien Enrage"</nameFR>
+		<rate>7</rate>
+		<power>8</power>
+		<health>8</health>
+		<levels>[2,3]</levels>
+		<exp>60</exp>
+	</monster>
+	<monster>
+		<nameEN>"Octorok"</nameEN>
+		<nameFR>"Un Octorok</nameFR>
+		<rate>9</rate>
+		<power>7</power>
+		<health>8</health>
+		<levels>[2,3,4]</levels>
+		<exp>60</exp>
+	</monster>
+	<monster>
+		<nameEN>"Skeleton"</nameEN>
+		<nameFR>"Un Squelette"</nameFR>
+		<rate>6</rate>
+		<power>9</power>
+		<health>8</health>
+		<levels>[3,4]</levels>
+		<exp>70</exp>
+	</monster>
+	<monster>
+		<nameEN>"Old Kobold"</nameEN>
+		<nameFR>"Un vieux Kobold"</nameFR>
+		<rate>7</rate>
+		<power>8</power>
+		<health>10</health>
+		<levels>[3,4]</levels>
+		<exp>70</exp>
+	</monster>
+	<monster>
+		<nameEN>"Kobold"</nameEN>
+		<nameFR>"Un Kobold"</nameFR>
+		<rate>8</rate>
+		<power>8</power>
+		<health>10</health>
+		<levels>[3,4]</levels>
+		<exp>70</exp>
+	</monster>
+	<monster>
+		<nameEN>"Dude"</nameEN>
+		<nameFR>"Un Dude"</nameFR>
+		<rate>10</rate>
+		<power>9</power>
+		<health>10</health>
+		<levels>[4,5]</levels>
+		<exp>80</exp>
+	</monster>
+	<monster>
+		<nameEN>"Orc"</nameEN>
+		<nameFR>"Un Orc"</nameFR>
+		<rate>8</rate>
+		<power>9</power>
+		<health>10</health>
+		<levels>[4,5]</levels>
+		<exp>80</exp>
+	</monster>
+	<monster>
+		<nameEN>"'Armless Bandit"</nameEN>
+		<nameFR>"Un Bandit Manchot"</nameFR>
+		<rate>9</rate>
+		<power>9</power>
+		<health>12</health>
+		<levels>[4,5]</levels>
+		<exp>80</exp>
+	</monster>
+	<monster>
+		<nameEN>"Legless bandit"</nameEN>
+		<nameFR>"Un Bandit Cul-De-Jatte"</nameFR>
+		<rate>8</rate>
+		<power>9</power>
+		<health>12</health>
+		<levels>[5,6]</levels>
+		<exp>90</exp>
+	</monster>
+	<monster>
+		<nameEN>"Assassin"</nameEN>
+		<nameFR>"Un Assassin"</nameFR>
+		<rate>7</rate>
+		<power>9</power>
+		<health>14</health>
+		<levels>[5,6]</levels>
+		<exp>90</exp>
+	</monster>
+	<monster>
+		<nameEN>"Gang Leader"</nameEN>
+		<nameFR>"Un Chef de Gang"</nameFR>
+		<rate>6</rate>
+		<power>10</power>
+		<health>14</health>
+		<levels>[6,7]</levels>
+		<exp>100</exp>
+	</monster>
+	<monster>
+		<nameEN>"Vampire"</nameEN>
+		<nameFR>"Un Vampire"</nameFR>
+		<rate>6</rate>
+		<power>10</power>
+		<health>14</health>
+		<levels>[7,8]</levels>
+		<exp>110</exp>
+	</monster>
+	<monster>
+		<nameEN>"Ilama"</nameEN>
+		<nameFR>"Un Lama"</nameFR>
+		<rate>5</rate>
+		<power>10</power>
+		<health>10</health>
+		<levels>[7,8]</levels>
+		<exp>110</exp>
+	</monster>
+	<monster>
+		<nameEN>"Werewolf"</nameEN>
+		<nameFR>"Un Loup-Garou"</nameFR>
+		<rate>5</rate>
+		<power>10</power>
+		<health>14</health>
+		<levels>[8,9]</levels>
+		<exp>120</exp>
+	</monster>
+	<monster>
+		<nameEN>"Troll"</nameEN>
+		<nameFR>"Un Troll"</nameFR>
+		<rate>5</rate>
+		<power>11</power>
+		<health>14</health>
+		<levels>[8,9]</levels>
+		<exp>120</exp>
+	</monster>
+	<monster>
+		<nameEN>"Weaping Angel"</nameEN>
+		<nameFR>"Un Ange Pleureur"</nameFR>
+		<rate>5</rate>
+		<power>11</power>
+		<health>14</health>
+		<levels>[8,9]</levels>
+		<exp>120</exp>
+	</monster>
+	<monster>
+		<nameEN>"Dementor"</nameEN>
+		<nameFR>"Un Detraqueur"</nameFR>
+		<rate>5</rate>
+		<power>10</power>
+		<health>14</health>
+		<levels>[8,9]</levels>
+		<exp>120</exp>
+	</monster>
+	<monster>
+		<nameEN>"Lord Helix"</nameEN>
+		<nameFR>"Un Lord Helix"</nameFR>
+		<rate>5</rate>
+		<power>12</power>
+		<health>14</health>
+		<levels>[9,10]</levels>
+		<exp>130</exp>
+	</monster>
+	<monster>
+		<nameEN>"Alduin"</nameEN>
+		<nameFR>"Un Alduin"</nameFR>
+		<rate>3</rate>
+		<power>12</power>
+		<health>16</health>
+		<levels>[9,10]</levels>
+		<exp>130</exp>
+	</monster>
+	<monster>
+		<nameEN>"Balrog"</nameEN>
+		<nameFR>"Un Balrog"</nameFR>
+		<rate>3</rate>
+		<power>12</power>
+		<health>20</health>
+		<levels>[10]</levels>
+		<exp>130</exp>
+	</monster>
+	<monster>
+		<nameEN>"Invisible Pink Unicorn"</nameEN>
+		<nameFR>"Une Licorne Rose Invisible"</nameFR>
+		<rate>1</rate>
+		<power>14</power>
+		<health>20</health>
+		<levels>[10]</levels>
+		<exp>150</exp>
+	</monster>	
+	<monster>
+		<nameEN>"Doppelganger"</nameEN>
+		<nameFR>"Un Doopelganger"</nameFR>
+		<rate>1</rate>
+		<power>1</power>
+		<health>1</health>
+		<levels>[1,2,3,4,5,6,7,8,9,10]</levels>
+		<exp>150</exp>
+	</monster>
+</monsterlist>
