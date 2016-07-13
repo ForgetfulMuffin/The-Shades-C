@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monsterlist>
 	<monster>
-		<nameEN>"Pink Fluffy Unicorn"</nameEN>
-        <nameFR>"Une Licorne Rose Touffue"</nameFR>
+		<EN>"Pink Fluffy Unicorn"</EN>
+        <FR>"Une Licorne Rose Touffue"</FR>
 		<rate>1</rate>
 		<power>1</power>
 		<health>1</health>
@@ -10,8 +10,8 @@
 		<exp>10</exp>
 	</monster>
 	<monster>
-		<nameEN>"Rat"</nameEN>
-		<nameFR>"Un Rat"</nameFR>
+		<EN>"Rat"</EN>
+		<FR>"Un Rat"</FR>
 		<rate>2</rate>
 		<power>4</power>
 		<health>4</health>
@@ -19,8 +19,8 @@
 		<exp>30</exp>
 	</monster>
 	<monster>
-		<nameEN>"Goblin"</nameEN>
-        <nameFR>"Un Gobelin"</nameFR>
+		<EN>"Goblin"</EN>
+        <FR>"Un Gobelin"</FR>
 		<rate>3</rate>
 		<power>5</power>
 		<health>6</health>
@@ -28,8 +28,8 @@
 		<exp>40</exp>
 	</monster>
 	<monster>
-		<nameEN>"Starving Beggar"</nameEN>
-        <nameFR>"Un Mendiant Affame"</nameFR>
+		<EN>"Starving Beggar"</EN>
+        <FR>"Un Mendiant Affame"</FR>
 		<rate>3</rate>
 		<power>6</power>
 		<health>6</health>
@@ -37,8 +37,8 @@
 		<exp>50</exp>
 	</monster>
 	<monster>
-		<nameEN>"Beggar"</nameEN>
-        <nameFR>"Un Mendiant"</nameFR>
+		<EN>"Beggar"</EN>
+        <FR>"Un Mendiant"</FR>
 		<rate>4</rate>
 		<power>7</power>
 		<health>6</health>
@@ -46,8 +46,8 @@
 		<exp>50</exp>
 	</monster>
 	<monster>
-		<nameEN>"Angry Beggar"</nameEN>
-        <nameFR>"Un Mendiant en Colere"</nameFR>
+		<EN>"Angry Beggar"</EN>
+        <FR>"Un Mendiant en Colere"</FR>
 		<rate>6</rate>
 		<power>7</power>
 		<health>8</health>
@@ -55,8 +55,8 @@
 		<exp>60</exp>
 	</monster>
 	<monster>
-		<nameEN>"Enraged Dog"</nameEN>
-        <nameFR>"Un Chien Enrage"</nameFR>
+		<EN>"Enraged Dog"</EN>
+        <FR>"Un Chien Enrage"</FR>
 		<rate>7</rate>
 		<power>8</power>
 		<health>8</health>
@@ -64,8 +64,8 @@
 		<exp>60</exp>
 	</monster>
 	<monster>
-		<nameEN>"Octorok"</nameEN>
-		<nameFR>"Un Octorok</nameFR>
+		<EN>"Octorok"</EN>
+		<FR>"Un Octorok</FR>
 		<rate>9</rate>
 		<power>7</power>
 		<health>8</health>
@@ -73,8 +73,8 @@
 		<exp>60</exp>
 	</monster>
 	<monster>
-		<nameEN>"Skeleton"</nameEN>
-		<nameFR>"Un Squelette"</nameFR>
+		<EN>"Skeleton"</EN>
+		<FR>"Un Squelette"</FR>
 		<rate>6</rate>
 		<power>9</power>
 		<health>8</health>
@@ -82,8 +82,8 @@
 		<exp>70</exp>
 	</monster>
 	<monster>
-		<nameEN>"Old Kobold"</nameEN>
-		<nameFR>"Un vieux Kobold"</nameFR>
+		<EN>"Old Kobold"</EN>
+		<FR>"Un vieux Kobold"</FR>
 		<rate>7</rate>
 		<power>8</power>
 		<health>10</health>
@@ -91,8 +91,8 @@
 		<exp>70</exp>
 	</monster>
 	<monster>
-		<nameEN>"Kobold"</nameEN>
-		<nameFR>"Un Kobold"</nameFR>
+		<EN>"Kobold"</EN>
+		<FR>"Un Kobold"</FR>
 		<rate>8</rate>
 		<power>8</power>
 		<health>10</health>
@@ -100,8 +100,8 @@
 		<exp>70</exp>
 	</monster>
 	<monster>
-		<nameEN>"Dude"</nameEN>
-		<nameFR>"Un Dude"</nameFR>
+		<EN>"Dude"</EN>
+		<FR>"Un Dude"</FR>
 		<rate>10</rate>
 		<power>9</power>
 		<health>10</health>
@@ -109,8 +109,8 @@
 		<exp>80</exp>
 	</monster>
 	<monster>
-		<nameEN>"Orc"</nameEN>
-		<nameFR>"Un Orc"</nameFR>
+		<EN>"Orc"</EN>
+		<FR>"Un Orc"</FR>
 		<rate>8</rate>
 		<power>9</power>
 		<health>10</health>
@@ -118,8 +118,8 @@
 		<exp>80</exp>
 	</monster>
 	<monster>
-		<nameEN>"'Armless Bandit"</nameEN>
-		<nameFR>"Un Bandit Manchot"</nameFR>
+		<EN>"'Armless Bandit"</EN>
+		<FR>"Un Bandit Manchot"</FR>
 		<rate>9</rate>
 		<power>9</power>
 		<health>12</health>
@@ -127,8 +127,8 @@
 		<exp>80</exp>
 	</monster>
 	<monster>
-		<nameEN>"Legless bandit"</nameEN>
-		<nameFR>"Un Bandit Cul-De-Jatte"</nameFR>
+		<EN>"Legless bandit"</EN>
+		<FR>"Un Bandit Cul-De-Jatte"</FR>
 		<rate>8</rate>
 		<power>9</power>
 		<health>12</health>
@@ -136,8 +136,8 @@
 		<exp>90</exp>
 	</monster>
 	<monster>
-		<nameEN>"Assassin"</nameEN>
-		<nameFR>"Un Assassin"</nameFR>
+		<EN>"Assassin"</EN>
+		<FR>"Un Assassin"</FR>
 		<rate>7</rate>
 		<power>9</power>
 		<health>14</health>
@@ -145,8 +145,8 @@
 		<exp>90</exp>
 	</monster>
 	<monster>
-		<nameEN>"Gang Leader"</nameEN>
-		<nameFR>"Un Chef de Gang"</nameFR>
+		<EN>"Gang Leader"</EN>
+		<FR>"Un Chef de Gang"</FR>
 		<rate>6</rate>
 		<power>10</power>
 		<health>14</health>
@@ -154,8 +154,8 @@
 		<exp>100</exp>
 	</monster>
 	<monster>
-		<nameEN>"Vampire"</nameEN>
-		<nameFR>"Un Vampire"</nameFR>
+		<EN>"Vampire"</EN>
+		<FR>"Un Vampire"</FR>
 		<rate>6</rate>
 		<power>10</power>
 		<health>14</health>
@@ -163,8 +163,8 @@
 		<exp>110</exp>
 	</monster>
 	<monster>
-		<nameEN>"Ilama"</nameEN>
-		<nameFR>"Un Lama"</nameFR>
+		<EN>"Ilama"</EN>
+		<FR>"Un Lama"</FR>
 		<rate>5</rate>
 		<power>10</power>
 		<health>10</health>
@@ -172,8 +172,8 @@
 		<exp>110</exp>
 	</monster>
 	<monster>
-		<nameEN>"Werewolf"</nameEN>
-		<nameFR>"Un Loup-Garou"</nameFR>
+		<EN>"Werewolf"</EN>
+		<FR>"Un Loup-Garou"</FR>
 		<rate>5</rate>
 		<power>10</power>
 		<health>14</health>
@@ -181,8 +181,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<nameEN>"Troll"</nameEN>
-		<nameFR>"Un Troll"</nameFR>
+		<EN>"Troll"</EN>
+		<FR>"Un Troll"</FR>
 		<rate>5</rate>
 		<power>11</power>
 		<health>14</health>
@@ -190,8 +190,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<nameEN>"Weaping Angel"</nameEN>
-		<nameFR>"Un Ange Pleureur"</nameFR>
+		<EN>"Weaping Angel"</EN>
+		<FR>"Un Ange Pleureur"</FR>
 		<rate>5</rate>
 		<power>11</power>
 		<health>14</health>
@@ -199,8 +199,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<nameEN>"Dementor"</nameEN>
-		<nameFR>"Un Detraqueur"</nameFR>
+		<EN>"Dementor"</EN>
+		<FR>"Un Detraqueur"</FR>
 		<rate>5</rate>
 		<power>10</power>
 		<health>14</health>
@@ -208,8 +208,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<nameEN>"Lord Helix"</nameEN>
-		<nameFR>"Un Lord Helix"</nameFR>
+		<EN>"Lord Helix"</EN>
+		<FR>"Un Lord Helix"</FR>
 		<rate>5</rate>
 		<power>12</power>
 		<health>14</health>
@@ -217,8 +217,8 @@
 		<exp>130</exp>
 	</monster>
 	<monster>
-		<nameEN>"Alduin"</nameEN>
-		<nameFR>"Un Alduin"</nameFR>
+		<EN>"Alduin"</EN>
+		<FR>"Un Alduin"</FR>
 		<rate>3</rate>
 		<power>12</power>
 		<health>16</health>
@@ -226,8 +226,8 @@
 		<exp>130</exp>
 	</monster>
 	<monster>
-		<nameEN>"Balrog"</nameEN>
-		<nameFR>"Un Balrog"</nameFR>
+		<EN>"Balrog"</EN>
+		<FR>"Un Balrog"</FR>
 		<rate>3</rate>
 		<power>12</power>
 		<health>20</health>
@@ -235,8 +235,8 @@
 		<exp>130</exp>
 	</monster>
 	<monster>
-		<nameEN>"Invisible Pink Unicorn"</nameEN>
-		<nameFR>"Une Licorne Rose Invisible"</nameFR>
+		<EN>"Invisible Pink Unicorn"</EN>
+		<FR>"Une Licorne Rose Invisible"</FR>
 		<rate>1</rate>
 		<power>14</power>
 		<health>20</health>
@@ -244,8 +244,8 @@
 		<exp>150</exp>
 	</monster>	
 	<monster>
-		<nameEN>"Doppelganger"</nameEN>
-		<nameFR>"Un Doopelganger"</nameFR>
+		<EN>"Doppelganger"</EN>
+		<FR>"Un Doopelganger"</FR>
 		<rate>1</rate>
 		<power>1</power>
 		<health>1</health>
