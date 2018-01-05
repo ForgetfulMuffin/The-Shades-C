@@ -1,122 +1,122 @@
 <?xml version=1.0 encoding=UTF-8?>
 <itemlist>
 	<item id="0" type="healing">
-		<EN>a Fairy</EN>
-		<FR>une Fee</FR>
+		<en>a Fairy</en>
+		<fr>une Fee</fr>
 		<rate>4</rate>
 		<modifier>6</modifier>
 	</item>
 	<item id="1" type="healing">
-		<EN>a Heart</EN>
-		<FR>un Coeur</FR>
+		<en>a Heart</en>
+		<fr>un Coeur</fr>
 		<rate>10</rate>
 		<modifier>1</modifier>
 	</item>
 	<item id="2" type="">
-		<EN>a Sausage Roll</EN>
-		<FR>une Galette Saucisse</FR>
+		<en>a Sausage Roll</en>
+		<fr>une Galette Saucisse</fr>
 		<rate>9</rate>
 		<modifier>2</modifier>
 	</item>
 	<item id="3" type="healing">
-		<EN>a Chocolate Frog</EN>
-		<FR>une Chocogrenouille</FR>
+		<en>a Chocolate Frog</en>
+		<fr>une Chocogrenouille</fr>
 		<rate>6</rate>
 		<modifier>3</modifier>
 	</item>
 	<item id="4" type="healing">
-		<EN>some Innards</EN>
-		<FR>des Abats</FR>
+		<en>some Innards</en>
+		<fr>des Abats</fr>
 		<rate>10</rate>
 		<modifier>1</modifier>
 	</item>
 	<item id="5" type="healing">
-		<EN>some Jelly Babies</EN>
-		<FR>des Jelly Babies</FR>
+		<en>some Jelly Babies</en>
+		<fr>des Jelly Babies</fr>
 		<rate>7</rate>
 		<modifier>4</modifier>
 	</item>
 	<item id="7" type="weapon">
-		<EN>a Fire Flower</EN>
-		<FR>une Fleur de Feu</FR>
+		<en>a Fire Flower</en>
+		<fr>une Fleur de Feu</fr>
 		<rate>7</rate>
 		<modifier>1</modifier>
 	</item>
 	<item id="8" type="weapon">
-		<EN>a Bow</EN>
-		<FR>un Arc</FR>
+		<en>a Bow</en>
+		<fr>un Arc</fr>
 		<rate>7</rate>
 		<modifier>1</modifier>
 	</item>
 	<item id="9" type="weapon">
-		<EN>a Crossbow</EN>
-		<FR>une Arbalette</FR>
+		<en>a Crossbow</en>
+		<fr>une Arbalette</fr>
 		<rate>5</rate>
 		<modifier>3</modifier>
 	</item>
 	<item id="10" type="weapon">
-		<EN>a Morningstar</EN>
-		<FR>une Morgenstern</FR>
+		<en>a Morningstar</en>
+		<fr>une Morgenstern</fr>
 		<rate>5</rate>
 		<modifier>3</modifier>
 	</item>
 	<item id="11" type="weapon">
-		<EN>a Mace</EN>
-		<FR>une Massue</FR>
+		<en>a Mace</en>
+		<fr>une Massue</fr>
 		<rate>7</rate>
 		<modifier>2</modifier>
 	</item>
 	<item id="12" type="weapon">
-		<EN>the Master Sword</EN>
-		<FR>la Master Sword</FR>
+		<en>the Master Sword</en>
+		<fr>la Master Sword</fr>
 		<rate>2</rate>
 		<modifier>6</modifier>
 	</item>
 	<item id="13" type="weapon">
-		<EN>the BFG 9000</EN>
-		<FR>le BFG 9000</FR>
+		<en>the BFG 9000</en>
+		<fr>le BFG 9000</fr>
 		<rate>1</rate>
 		<modifier>9</modifier>
 	</item>
 	<item id="14" type="weapon">
-		<EN>a Slingshot</EN>
-		<FR>un Lance-Pierre</FR>
+		<en>a Slingshot</en>
+		<fr>un Lance-Pierre</fr>
 		<rate>7</rate>
 		<modifier>1</modifier>
 	</item>
 	<item id="15" type="weapon">
-		<EN>a Catapult</EN>
-		<FR>une Catapulte</FR>
+		<en>a Catapult</en>
+		<fr>une Catapulte</fr>
 		<rate>3</rate>
 		<modifier>5</modifier>
 	</item>
 	<item id="16" type="weapon">
-		<EN>a Claymore</EN>
-		<FR>une Claymore</FR>
+		<en>a Claymore</en>
+		<fr>une Claymore</fr>
 		<rate>5</rate>
 		<modifier>3</modifier>
 	</item>
 	<item id="17" type="weapon">
-		<EN>a Katana</EN>
-		<FR>un Katana</FR>
+		<en>a Katana</en>
+		<fr>un Katana</fr>
 		<rate>6</rate>
 		<modifier>2</modifier>
 	</item>
 	<item id="18" type="leveling">
-		<EN>a Rare Candy</EN>
-		<FR>un Superbonbon</FR>
+		<en>a Rare Candy</en>
+		<fr>un Superbonbon</fr>
 		<rate>6</rate>
 		<modifier>1</modifier>
 	</item>
 	<item id="19" type="leveling">
-		<EN>a Ham</EN>
-		<FR>un Jambon</FR>
+		<en>a Ham</en>
+		<fr>un Jambon</fr>
 		<rate>1</rate>
 		<modifier>2</modifier>
 	</item>
 	<item id="20" type="weapon">
-		<EN>an Old Musket</EN>
-		<FR>un Tromblon</FR>
+		<en>an Old Musket</en>
+		<fr>un Tromblon</fr>
 		<rate>6</rate>
 		<modifier>2</modifier>
 	</item>

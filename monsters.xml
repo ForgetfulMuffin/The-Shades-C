@@ -1,8 +1,8 @@
 <?xml version=1.0 encoding=UTF-8?>
 <monsterlist>
 	<monster>
-		<EN>Pink Fluffy Unicorn</EN>
-        <FR>Une Licorne Rose Touffue</FR>
+		<en>Pink Fluffy Unicorn</en>
+		<fr>Une Licorne Rose Touffue</fr>
 		<rate>1</rate>
 		<power>1</power>
 		<health>1</health>
@@ -12,8 +12,8 @@
 		<exp>10</exp>
 	</monster>
 	<monster>
-		<EN>Rat</EN>
-		<FR>Un Rat</FR>
+		<en>Rat</en>
+		<fr>Un Rat</fr>
 		<rate>2</rate>
 		<power>4</power>
 		<health>4</health>
@@ -23,8 +23,8 @@
 		<exp>30</exp>
 	</monster>
 	<monster>
-		<EN>Goblin</EN>
-        <FR>Un Gobelin</FR>
+		<en>Goblin</en>
+		<fr>Un Gobelin</fr>
 		<rate>3</rate>
 		<power>5</power>
 		<health>6</health>
@@ -35,8 +35,8 @@
 		<exp>40</exp>
 	</monster>
 	<monster>
-		<EN>Starving Beggar</EN>
-        <FR>Un Mendiant Affame</FR>
+		<en>Starving Beggar</en>
+		<fr>Un Mendiant Affame</fr>
 		<rate>3</rate>
 		<power>6</power>
 		<health>6</health>
@@ -47,8 +47,8 @@
 		<exp>50</exp>
 	</monster>
 	<monster>
-		<EN>Beggar</EN>
-        <FR>Un Mendiant</FR>
+		<en>Beggar</en>
+		<fr>Un Mendiant</fr>
 		<rate>4</rate>
 		<power>7</power>
 		<health>6</health>
@@ -59,8 +59,8 @@
 		<exp>50</exp>
 	</monster>
 	<monster>
-		<EN>Angry Beggar</EN>
-        <FR>Un Mendiant en Colere</FR>
+		<en>Angry Beggar</en>
+		<fr>Un Mendiant en Colere</fr>
 		<rate>6</rate>
 		<power>7</power>
 		<health>8</health>
@@ -71,8 +71,8 @@
 		<exp>60</exp>
 	</monster>
 	<monster>
-		<EN>Enraged Dog</EN>
-        <FR>Un Chien Enrage</FR>
+		<en>Enraged Dog</en>
+		<fr>Un Chien Enrage</fr>
 		<rate>7</rate>
 		<power>8</power>
 		<health>8</health>
@@ -83,8 +83,8 @@
 		<exp>60</exp>
 	</monster>
 	<monster>
-		<EN>Octorok</EN>
-		<FR>Un Octorok</FR>
+		<en>Octorok</en>
+		<fr>Un Octorok</fr>
 		<rate>9</rate>
 		<power>7</power>
 		<health>8</health>
@@ -96,8 +96,8 @@
 		<exp>60</exp>
 	</monster>
 	<monster>
-		<EN>Skeleton</EN>
-		<FR>Un Squelette</FR>
+		<en>Skeleton</en>
+		<fr>Un Squelette</fr>
 		<rate>6</rate>
 		<power>9</power>
 		<health>8</health>
@@ -108,8 +108,8 @@
 		<exp>70</exp>
 	</monster>
 	<monster>
-		<EN>Old Kobold</EN>
-		<FR>Un vieux Kobold</FR>
+		<en>Old Kobold</en>
+		<fr>Un vieux Kobold</fr>
 		<rate>7</rate>
 		<power>8</power>
 		<health>10</health>
@@ -120,8 +120,8 @@
 		<exp>70</exp>
 	</monster>
 	<monster>
-		<EN>Kobold</EN>
-		<FR>Un Kobold</FR>
+		<en>Kobold</en>
+		<fr>Un Kobold</fr>
 		<rate>8</rate>
 		<power>8</power>
 		<health>10</health>
@@ -132,8 +132,8 @@
 		<exp>70</exp>
 	</monster>
 	<monster>
-		<EN>Dude</EN>
-		<FR>Un Dude</FR>
+		<en>Dude</en>
+		<fr>Un Dude</fr>
 		<rate>10</rate>
 		<power>9</power>
 		<health>10</health>
@@ -144,8 +144,8 @@
 		<exp>80</exp>
 	</monster>
 	<monster>
-		<EN>Orc</EN>
-		<FR>Un Orc</FR>
+		<en>Orc</en>
+		<fr>Un Orc</fr>
 		<rate>8</rate>
 		<power>9</power>
 		<health>10</health>
@@ -156,8 +156,8 @@
 		<exp>80</exp>
 	</monster>
 	<monster>
-		<EN>'Armless Bandit</EN>
-		<FR>Un Bandit Manchot</FR>
+		<en>'Armless Bandit</en>
+		<fr>Un Bandit Manchot</fr>
 		<rate>9</rate>
 		<power>9</power>
 		<health>12</health>
@@ -168,8 +168,8 @@
 		<exp>80</exp>
 	</monster>
 	<monster>
-		<EN>Legless bandit</EN>
-		<FR>Un Bandit Cul-De-Jatte</FR>
+		<en>Legless bandit</en>
+		<fr>Un Bandit Cul-De-Jatte</fr>
 		<rate>8</rate>
 		<power>9</power>
 		<health>12</health>
@@ -180,8 +180,8 @@
 		<exp>90</exp>
 	</monster>
 	<monster>
-		<EN>Assassin</EN>
-		<FR>Un Assassin</FR>
+		<en>Assassin</en>
+		<fr>Un Assassin</fr>
 		<rate>7</rate>
 		<power>9</power>
 		<health>14</health>
@@ -192,8 +192,8 @@
 		<exp>90</exp>
 	</monster>
 	<monster>
-		<EN>Gang Leader</EN>
-		<FR>Un Chef de Gang</FR>
+		<en>Gang Leader</en>
+		<fr>Un Chef de Gang</fr>
 		<rate>6</rate>
 		<power>10</power>
 		<health>14</health>
@@ -204,8 +204,8 @@
 		<exp>100</exp>
 	</monster>
 	<monster>
-		<EN>Vampire</EN>
-		<FR>Un Vampire</FR>
+		<en>Vampire</en>
+		<fr>Un Vampire</fr>
 		<rate>6</rate>
 		<power>10</power>
 		<health>14</health>
@@ -216,8 +216,8 @@
 		<exp>110</exp>
 	</monster>
 	<monster>
-		<EN>Ilama</EN>
-		<FR>Un Lama</FR>
+		<en>Ilama</en>
+		<fr>Un Lama</fr>
 		<rate>5</rate>
 		<power>10</power>
 		<health>10</health>
@@ -228,8 +228,8 @@
 		<exp>110</exp>
 	</monster>
 	<monster>
-		<EN>Werewolf</EN>
-		<FR>Un Loup-Garou</FR>
+		<en>Werewolf</en>
+		<fr>Un Loup-Garou</fr>
 		<rate>5</rate>
 		<power>10</power>
 		<health>14</health>
@@ -240,8 +240,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<EN>Troll</EN>
-		<FR>Un Troll</FR>
+		<en>Troll</en>
+		<fr>Un Troll</fr>
 		<rate>5</rate>
 		<power>11</power>
 		<health>14</health>
@@ -252,8 +252,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<EN>Weaping Angel</EN>
-		<FR>Un Ange Pleureur</FR>
+		<en>Weaping Angel</en>
+		<fr>Un Ange Pleureur</fr>
 		<rate>5</rate>
 		<power>11</power>
 		<health>14</health>
@@ -264,8 +264,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<EN>Dementor</EN>
-		<FR>Un Detraqueur</FR>
+		<en>Dementor</en>
+		<fr>Un Detraqueur</fr>
 		<rate>5</rate>
 		<power>10</power>
 		<health>14</health>
@@ -276,8 +276,8 @@
 		<exp>120</exp>
 	</monster>
 	<monster>
-		<EN>Lord Helix</EN>
-		<FR>Un Lord Helix</FR>
+		<en>Lord Helix</en>
+		<fr>Un Lord Helix</fr>
 		<rate>5</rate>
 		<power>12</power>
 		<health>14</health>
@@ -288,8 +288,8 @@
 		<exp>130</exp>
 	</monster>
 	<monster>
-		<EN>Alduin</EN>
-		<FR>Un Alduin</FR>
+		<en>Alduin</en>
+		<fr>Un Alduin</fr>
 		<rate>3</rate>
 		<power>12</power>
 		<health>16</health>
@@ -300,8 +300,8 @@
 		<exp>130</exp>
 	</monster>
 	<monster>
-		<EN>Balrog</EN>
-		<FR>Un Balrog</FR>
+		<en>Balrog</en>
+		<fr>Un Balrog</fr>
 		<rate>3</rate>
 		<power>12</power>
 		<health>20</health>
@@ -311,8 +311,8 @@
 		<exp>130</exp>
 	</monster>
 	<monster>
-		<EN>Invisible Pink Unicorn</EN>
-		<FR>Une Licorne Rose Invisible</FR>
+		<en>Invisible Pink Unicorn</en>
+		<fr>Une Licorne Rose Invisible</fr>
 		<rate>1</rate>
 		<power>14</power>
 		<health>20</health>
@@ -322,8 +322,8 @@
 		<exp>150</exp>
 	</monster>	
 	<monster>
-		<EN>Doppelganger</EN>
-		<FR>Un Doopelganger</FR>
+		<en>Doppelganger</en>
+		<fr>Un Doopelganger</fr>
 		<rate>1</rate>
 		<power>1</power>
 		<health>1</health>
