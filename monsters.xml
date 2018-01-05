@@ -1,6 +1,6 @@
 <?xml version=1.0 encoding=UTF-8?>
 <monsterlist>
-	<monster>
+	<monster id="1">
 		<en>Pink Fluffy Unicorn</en>
 		<fr>Une Licorne Rose Touffue</fr>
 		<rate>1</rate>
@@ -11,7 +11,7 @@
 		</levels>
 		<exp>10</exp>
 	</monster>
-	<monster>
+	<monster id="2">
 		<en>Rat</en>
 		<fr>Un Rat</fr>
 		<rate>2</rate>
@@ -22,7 +22,7 @@
 		</levels>
 		<exp>30</exp>
 	</monster>
-	<monster>
+	<monster id="3">
 		<en>Goblin</en>
 		<fr>Un Gobelin</fr>
 		<rate>3</rate>
@@ -34,7 +34,7 @@
 		</levels>
 		<exp>40</exp>
 	</monster>
-	<monster>
+	<monster id="4">
 		<en>Starving Beggar</en>
 		<fr>Un Mendiant Affame</fr>
 		<rate>3</rate>
@@ -46,7 +46,7 @@
 		</levels>
 		<exp>50</exp>
 	</monster>
-	<monster>
+	<monster id="5">
 		<en>Beggar</en>
 		<fr>Un Mendiant</fr>
 		<rate>4</rate>
@@ -58,7 +58,7 @@
 		</levels>
 		<exp>50</exp>
 	</monster>
-	<monster>
+	<monster id="6">
 		<en>Angry Beggar</en>
 		<fr>Un Mendiant en Colere</fr>
 		<rate>6</rate>
@@ -70,7 +70,7 @@
 		</levels>
 		<exp>60</exp>
 	</monster>
-	<monster>
+	<monster id="7">
 		<en>Enraged Dog</en>
 		<fr>Un Chien Enrage</fr>
 		<rate>7</rate>
@@ -82,7 +82,7 @@
 		</levels>
 		<exp>60</exp>
 	</monster>
-	<monster>
+	<monster id="8">
 		<en>Octorok</en>
 		<fr>Un Octorok</fr>
 		<rate>9</rate>
@@ -95,7 +95,7 @@
 		</levels>
 		<exp>60</exp>
 	</monster>
-	<monster>
+	<monster id="9">
 		<en>Skeleton</en>
 		<fr>Un Squelette</fr>
 		<rate>6</rate>
@@ -107,7 +107,7 @@
 		</levels>
 		<exp>70</exp>
 	</monster>
-	<monster>
+	<monster id="10">
 		<en>Old Kobold</en>
 		<fr>Un vieux Kobold</fr>
 		<rate>7</rate>
@@ -119,7 +119,7 @@
 		</levels>
 		<exp>70</exp>
 	</monster>
-	<monster>
+	<monster id="11">
 		<en>Kobold</en>
 		<fr>Un Kobold</fr>
 		<rate>8</rate>
@@ -131,7 +131,7 @@
 		</levels>
 		<exp>70</exp>
 	</monster>
-	<monster>
+	<monster id="12">
 		<en>Dude</en>
 		<fr>Un Dude</fr>
 		<rate>10</rate>
@@ -143,7 +143,7 @@
 		</levels>
 		<exp>80</exp>
 	</monster>
-	<monster>
+	<monster id="13">
 		<en>Orc</en>
 		<fr>Un Orc</fr>
 		<rate>8</rate>
@@ -155,7 +155,7 @@
 		</levels>
 		<exp>80</exp>
 	</monster>
-	<monster>
+	<monster id="14">
 		<en>'Armless Bandit</en>
 		<fr>Un Bandit Manchot</fr>
 		<rate>9</rate>
@@ -167,7 +167,7 @@
 		</levels>
 		<exp>80</exp>
 	</monster>
-	<monster>
+	<monster id="15">
 		<en>Legless bandit</en>
 		<fr>Un Bandit Cul-De-Jatte</fr>
 		<rate>8</rate>
@@ -179,7 +179,7 @@
 		</levels>
 		<exp>90</exp>
 	</monster>
-	<monster>
+	<monster id="16">
 		<en>Assassin</en>
 		<fr>Un Assassin</fr>
 		<rate>7</rate>
@@ -191,7 +191,7 @@
 		</levels>
 		<exp>90</exp>
 	</monster>
-	<monster>
+	<monster id="17">
 		<en>Gang Leader</en>
 		<fr>Un Chef de Gang</fr>
 		<rate>6</rate>
@@ -203,7 +203,7 @@
 		</levels>
 		<exp>100</exp>
 	</monster>
-	<monster>
+	<monster id="18">
 		<en>Vampire</en>
 		<fr>Un Vampire</fr>
 		<rate>6</rate>
@@ -215,7 +215,7 @@
 		</levels>
 		<exp>110</exp>
 	</monster>
-	<monster>
+	<monster id="19">
 		<en>Ilama</en>
 		<fr>Un Lama</fr>
 		<rate>5</rate>
@@ -227,7 +227,7 @@
 		</levels>
 		<exp>110</exp>
 	</monster>
-	<monster>
+	<monster id="20">
 		<en>Werewolf</en>
 		<fr>Un Loup-Garou</fr>
 		<rate>5</rate>
@@ -239,7 +239,7 @@
 		</levels>
 		<exp>120</exp>
 	</monster>
-	<monster>
+	<monster id="21">
 		<en>Troll</en>
 		<fr>Un Troll</fr>
 		<rate>5</rate>
@@ -251,7 +251,7 @@
 		</levels>
 		<exp>120</exp>
 	</monster>
-	<monster>
+	<monster id="22">
 		<en>Weaping Angel</en>
 		<fr>Un Ange Pleureur</fr>
 		<rate>5</rate>
@@ -263,7 +263,7 @@
 		</levels>
 		<exp>120</exp>
 	</monster>
-	<monster>
+	<monster id="23">
 		<en>Dementor</en>
 		<fr>Un Detraqueur</fr>
 		<rate>5</rate>
@@ -275,7 +275,7 @@
 		</levels>
 		<exp>120</exp>
 	</monster>
-	<monster>
+	<monster id="24">
 		<en>Lord Helix</en>
 		<fr>Un Lord Helix</fr>
 		<rate>5</rate>
@@ -287,7 +287,7 @@
 		</levels>
 		<exp>130</exp>
 	</monster>
-	<monster>
+	<monster id="25">
 		<en>Alduin</en>
 		<fr>Un Alduin</fr>
 		<rate>3</rate>
@@ -299,7 +299,7 @@
 		</levels>
 		<exp>130</exp>
 	</monster>
-	<monster>
+	<monster id="26">
 		<en>Balrog</en>
 		<fr>Un Balrog</fr>
 		<rate>3</rate>
@@ -310,7 +310,7 @@
 		</levels>
 		<exp>130</exp>
 	</monster>
-	<monster>
+	<monster id="27">
 		<en>Invisible Pink Unicorn</en>
 		<fr>Une Licorne Rose Invisible</fr>
 		<rate>1</rate>
@@ -321,7 +321,7 @@
 		</levels>
 		<exp>150</exp>
 	</monster>	
-	<monster>
+	<monster id="0">
 		<en>Doppelganger</en>
 		<fr>Un Doopelganger</fr>
 		<rate>1</rate>
