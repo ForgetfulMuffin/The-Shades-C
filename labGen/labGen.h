@@ -2,13 +2,13 @@
 #define LABGEN 1
 
 struct _coord {
-  int x,y;
+	int x,y;
 };
 
 typedef struct _coord coord;
 
 struct _area {
-  char north, south, east, west;
+	char north, south, east, west;
 };
 
 typedef struct _area area;
