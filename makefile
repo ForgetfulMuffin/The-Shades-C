@@ -2,7 +2,7 @@
 CC=gcc -std=c99
 CFLAGS=-U__STRICT_ANSI__ -fno-common\
        -Wall -Wextra -Wc++-compat -Werror -pedantic
-LDFLAGS=
+LDFLAGS= -lncurses
 
 all : The-Shades
 
@@ -12,7 +12,7 @@ all : The-Shades
 The-Shades : labGen/labGen.o The-Shades.o
 	${CC} -o The-Shades labGen/labGen.o The-Shades.o ${LDFLAGS}
 
-labGen.o: labGen/labGen.c labGen/labGen.h
+labGen/labGen.o: labGen/labGen.c labGen/labGen.h
 	${CC} ${CFLAGS} -o labGen/labGen.o -c labGen/labGen.c
 
 The-Shades.o: The-Shades.c

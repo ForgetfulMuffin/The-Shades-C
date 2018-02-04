@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+#include <ncurses.h>
 
 #include "labGen.h"
 
@@ -21,7 +22,7 @@
 //===definitions====//
 map * generate(const int size){
 	//  printf("======Generate======\n");
-	srand(time(NULL));
+	srand(0/*time(NULL)*/);
 	map * gameMap = NULL;
 	createEmpty(&gameMap, size);
 	//  printf("=Exited createEmpty=\n");
@@ -177,34 +178,35 @@ void createMaze(map * gameMap, coord * visiting, int * visited , coord * path, i
 }
 
 void printMap(map * gameMap, const int size){
+	attron(A_STANDOUT);
+
 	for (int i = 0; i < size; i++){
 		for (int j = 0; j < size; j++){
+			mvaddch(0+2*j,0+2*i,' ');
+			(void)gameMap;
 			if (gameMap[i][j].west == 0){
-				printf("|");
-			}
-			else {
-				printf(" ");
-			}
-			if (gameMap[i][j].north == 0 && gameMap[i][j].south == 0){
-				printf("=");
-			}
-			else if (gameMap[i][j].north == 0){
-				printf("^");
-			}
-			else if (gameMap[i][j].south == 0){
-				printf("_");
-			}
-			else {
-				printf(" ");
+				mvaddch(1+2*i,0+2*j,' ');
 			}
 			if (gameMap[i][j].east == 0){
-				printf("|");
+				mvaddch(1+2*i,2+2*j,' ');
 			}
-			else {
-				printf(" ");
+			if (gameMap[i][j].north == 0){
+				mvaddch(0+2*i,1+2*j,' ');
+			}
+			if (gameMap[i][j].south == 0){
+				mvaddch(2+2*i,1+2*j,' ');
+			}
+			if(j == size - 1){
+				mvaddch(0+2*i,2+2*j,' ');
+			}
+			if(i == size - 1){
+				mvaddch(2+2*i,0+2*j,' ');
+			}
+			if(j == size - 1 && i == size - 1){
+				mvaddch(2+2*i,2+2*j,' ');
 			}
 		}
-		printf("\n");
 	}
+	attroff(A_STANDOUT);
 }
 
