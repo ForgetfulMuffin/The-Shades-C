@@ -22,7 +22,7 @@
 //===definitions====//
 map * generate(const int size){
 	//  printf("======Generate======\n");
-	srand(0/*time(NULL)*/);
+	srand(time(NULL));
 	map * gameMap = NULL;
 	createEmpty(&gameMap, size);
 	//  printf("=Exited createEmpty=\n");
