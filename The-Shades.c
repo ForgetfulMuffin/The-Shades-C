@@ -8,15 +8,19 @@
 //======main()======//
 int main(void)
 {
+	// Init ncurses
 	initscr();
 	raw();
-	noecho();
-	keypad(stdscr, TRUE);
+	noecho();  // Invisible keystrokes
+	keypad(stdscr, TRUE); // Function keys and arrow keys
+
 	int gameSize = 20;
 	map * test = generate(gameSize);
 	printMap(test, gameSize);
-	refresh();
-	getch();
+	refresh(); // Refreshes the screen so that the stdscr is printed
+	getch(); // Wait for a keystroke
+
+	// Finish ncurses
 	endwin();
 	return 0;
 }
