@@ -4,6 +4,7 @@
 #include <ncurses.h>
 #include <stdbool.h>
 #include "labGen/labGen.h"
+#include "Interaction.h"
 
 //======main()======//
 int main(void)
@@ -18,7 +19,7 @@ int main(void)
 	map * test = generate(gameSize);
 	printMap(test, gameSize);
 	refresh(); // Refreshes the screen so that the stdscr is printed
-	getch(); // Wait for a keystroke
+	parseChar(getch()); // Wait for a keystroke
 
 	// Finish ncurses
 	endwin();
