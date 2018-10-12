@@ -15,5 +15,9 @@ typedef struct _player player;
 
 int initPlayer(player p);
 
+int movePlayerLeft(player p);
+int movePlayerRight(player p);
+int movePlayerUp(player p);
+int movePlayerDown(player p);
 
 #endif /* end of include guard: PLAYER_H */
