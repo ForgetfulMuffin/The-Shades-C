@@ -2,7 +2,7 @@
 
 #define PLAYER_H
 
-#include "Item.h"
+#include "Items.h"
 
 struct _player {
 	char * name;

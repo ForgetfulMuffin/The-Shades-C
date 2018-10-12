@@ -9,8 +9,8 @@ all : The-Shades
 #labGen: ./labGen/labGen.o
 #	${CC} -o ./labGen/labGen ./labGen/labGen.o ${LDFLAGS}
 
-The-Shades : labGen/labGen.o The-Shades.o
-	${CC} -o The-Shades labGen/labGen.o The-Shades.o ${LDFLAGS}
+The-Shades : labGen/labGen.o The-Shades.o Interaction.o
+	${CC} -o The-Shades labGen/labGen.o Interaction.o The-Shades.o ${LDFLAGS}
 
 labGen/labGen.o: labGen/labGen.c labGen/labGen.h
 	${CC} ${CFLAGS} -o labGen/labGen.o -c labGen/labGen.c
@@ -18,5 +18,10 @@ labGen/labGen.o: labGen/labGen.c labGen/labGen.h
 The-Shades.o: The-Shades.c
 	${CC} ${CFLAGS} -o The-Shades.o -c The-Shades.c
 
+Interaction.o: Interaction.c
+	${CC} ${CFLAGS} -o Interaction.o -c Interaction.c
+
+Player.o: Player.c Player.h Items.h
+	${CC} ${CFLAGS} -o Player.o -c Player.c
 clean:
 	rm -f The-Shades *.o labGen/labGen.o
