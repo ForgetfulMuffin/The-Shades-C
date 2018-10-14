@@ -183,7 +183,6 @@ void printMap(map * gameMap, const int size){
 	for (int i = 0; i < size; i++){
 		for (int j = 0; j < size; j++){
 			mvaddch(0+2*j,0+2*i,' ');
-			(void)gameMap;
 			if (gameMap[i][j].west == 0){
 				mvaddch(1+2*i,0+2*j,' ');
 			}
@@ -205,6 +204,10 @@ void printMap(map * gameMap, const int size){
 			if(j == size - 1 && i == size - 1){
 				mvaddch(2+2*i,2+2*j,' ');
 			}
+			attroff(A_STANDOUT);
+			mvaddch(1+2*i, 1+2*j ,'+');
+			attron(A_STANDOUT);
+
 		}
 	}
 	attroff(A_STANDOUT);
