@@ -5,7 +5,7 @@
 #include <stdbool.h>
 #include "labGen/labGen.h"
 #include "Interaction.h"
-
+#include "Player.h"
 //======main()======//
 int main(void)
 {
@@ -20,7 +20,8 @@ int main(void)
 	printMap(test, gameSize);
 	refresh(); // Refreshes the screen so that the stdscr is printed
 	parseChar(getch()); // Wait for a keystroke
-
+	player bob;
+	initPlayer(bob);
 	// Finish ncurses
 	endwin();
 	return 0;
