@@ -9,7 +9,7 @@ all : The-Shades
 #labGen: ./labGen/labGen.o
 #	${CC} -o ./labGen/labGen ./labGen/labGen.o ${LDFLAGS}
 
-The-Shades : labGen/labGen.o The-Shades.o Interaction.o Player.o Game.o 
+The-Shades : labGen/labGen.o The-Shades.o Interaction.o Player.o Game.o
 	${CC} -o The-Shades labGen/labGen.o Interaction.o Player.o Game.o The-Shades.o ${LDFLAGS}
 
 labGen/labGen.o: labGen/labGen.c labGen/labGen.h

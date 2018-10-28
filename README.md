@@ -21,8 +21,9 @@
 
 
 
----
+-------------------------------------------------------------------------------
 
  This game uses labGen-C, the C implementation of our home made labyrinth generator.
  You can find it [here](http://github.com/ForgetfulMuffin/labGen-C)
 
+-------------------------------------------------------------------------------

@@ -20,4 +20,6 @@ int movePlayerRight(player p);
 int movePlayerUp(player p);
 int movePlayerDown(player p);
 
+extern player bob;
+
 #endif /* end of include guard: PLAYER_H */
