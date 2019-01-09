@@ -19,5 +19,10 @@ void generate(const int);
 void createEmpty(const int);
 void createMaze(coord*, int *, coord *, int *, const int);
 void printMap(const int);
-
+void printPlayerPosition();
+// Checks
+int isWallWest();
+int isWallEast();
+int isWallNorth();
+int isWallSouth();
 #endif

@@ -23,8 +23,16 @@ int main(void)
 	generate(gameSize);
 	printMap(gameSize);
 	refresh(); // Refreshes the screen so that the stdscr is printed
+	getch();
 	initPlayer();
+	printMap(gameSize);
+	printPlayerPosition();
+	refresh();
 	parseChar(); // Wait for a keystroke
+	printMap(gameSize);
+	printPlayerPosition();
+	refresh();
+	getch();
 	// Finish ncurses
 	endwin();
        	return 0;

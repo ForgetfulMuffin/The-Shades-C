@@ -22,3 +22,9 @@ int nd6(int amount) { // amount of dice to roll (default is 1)
   }
   return value;
 }
+void win(){
+  exit(0);
+}
+void lose(){
+  exit(0);
+}

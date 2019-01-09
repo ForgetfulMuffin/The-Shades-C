@@ -182,6 +182,7 @@ void createMaze(coord * visiting, int * visited , coord * path, int * pathNum, c
 }
 
 void printMap(const int size){
+  clear();
   attron(A_STANDOUT);
   for (int i = 0; i < size; i++){
     for (int j = 0; j < size; j++){
@@ -216,6 +217,22 @@ void printMap(const int size){
   attroff(A_STANDOUT);
 }
 
-int isDoorLeft() {
-  return -1;
+void printPlayerPosition(){
+  mvaddch(1+2*thePlayer.position[1], 1+2*thePlayer.position[0] ,'@');
+}
+
+int isWallWest() {
+  return gameMap[thePlayer.position[0]][thePlayer.position[1]].west;
+}
+
+int isWallEast() {
+  return gameMap[thePlayer.position[0]][thePlayer.position[1]].east;
+}
+
+int isWallNorth() {
+  return gameMap[thePlayer.position[0]][thePlayer.position[1]].north;
+}
+
+int isWallSouth() {
+  return gameMap[thePlayer.position[0]][thePlayer.position[1]].south;
 }
