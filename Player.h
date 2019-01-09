@@ -13,13 +13,13 @@ struct _player {
 
 typedef struct _player player;
 
-int initPlayer(player p);
+int initPlayer();
 
-int movePlayerLeft(player p);
-int movePlayerRight(player p);
-int movePlayerUp(player p);
-int movePlayerDown(player p);
+int movePlayerLeft();
+int movePlayerRight();
+int movePlayerUp();
+int movePlayerDown();
 
-extern player bob;
+extern player thePlayer;
 
 #endif /* end of include guard: PLAYER_H */

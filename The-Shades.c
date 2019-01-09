@@ -6,7 +6,7 @@
 
 #include "labGen/labGen.h"
 
-#include "The-Shades.h"
+//#include "The-Shades.h"
 #include "Interaction.h"
 #include "Player.h"
 //======main()======//
@@ -19,13 +19,13 @@ int main(void)
 	keypad(stdscr, TRUE); // Function keys and arrow keys
 
 	int gameSize = 20;
-	map * test = generate(gameSize);
-	printMap(test, gameSize);
+	
+	generate(gameSize);
+	printMap(gameSize);
 	refresh(); // Refreshes the screen so that the stdscr is printed
-	player bob;
-	initPlayer(bob);
+	initPlayer();
 	parseChar(); // Wait for a keystroke
 	// Finish ncurses
 	endwin();
-	return 0;
+       	return 0;
 }
